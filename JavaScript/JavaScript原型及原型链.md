@@ -40,7 +40,7 @@ child.prototype = new parent();
 > 还不明白的话请看下面的图   
 
 
-![]()   
+![](https://github.com/wangxinyu123/SKill/blob/master/JavaScript/Img/%E5%8E%9F%E5%9E%8B.png)   
 <br>
 ### 原型链<br>
 <br>    
@@ -50,7 +50,7 @@ child.prototype = new parent();
 <br> 
 `图片可说明一切`  
 
-![]()
+![](https://github.com/wangxinyu123/SKill/blob/master/JavaScript/Img/%E5%8E%9F%E5%9E%8B%E9%93%BE.png)
 <br>
 
 ```
