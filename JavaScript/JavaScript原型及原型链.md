@@ -46,7 +46,7 @@ var child1 = new child();
 <br>    
 > 个人理解: 每个对象都有一个_proto_指向构造函数的prototype原型对象,而原型对象也有_proto_指向上一个构造函数的prototype以此类推一直向上查找知道Object为止(null)
    
-=
+
 <br> 
 `图片可说明一切`  
 
