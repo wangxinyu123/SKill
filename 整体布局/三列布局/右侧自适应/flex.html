@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+    #parent{
+        width: 100%;
+        height: 400px;
+        display: flex;
+    }
+    .left{
+        width: 120px;
+        height: 100%;
+        background-color: antiquewhite;
+    }
+    .center{
+         width: 120px;
+         background-color: rgb(63, 168, 194);     
+    }
+    .right{
+        flex: 1;
+        height: 400px;
+        background-color: rgb(113, 206, 110);
+    }
+    </style>
+</head>
+<body>
+    <div id="parent">
+        <div class="left"></div>
+        <div class="center"></div>
+        <div class="right"></div>
+    </div>
+</body>
+</html>

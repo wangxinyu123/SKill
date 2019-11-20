@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        /***
+        注意 
+        需要浮动的一定要先浮起来,不然会被正常的文档流干扰
+         ***/
+        .right {
+            float: right;
+            width: 200px;
+            height: 400px;
+            background-color: rgb(77, 87, 184);
+        }
+        .left {
+            overflow: hidden;
+            height: 400px;
+            background-color: antiquewhite;
+        }
+
+    </style>
+</head>
+
+<body>
+    <div class="right">right</div>
+    <div class="left">left</div>
+</body>
+
+</html>

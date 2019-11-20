@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        #Box {
+            width: 100%;
+            height: 400px;
+            display: flex;
+        }
+
+        .left {
+            flex: 1;
+            /* 填补剩下的空间 */
+            height: 400px;
+            background-color: antiquewhite;
+        }
+
+        .right {
+            float: right;
+            width: 200px;
+            height: 400px;
+            background-color: rgb(77, 87, 184);
+        }
+    </style>
+</head>
+
+<body>
+    <div id="Box">
+        <div class="left">left</div>
+        <div class="right">right</div>
+    </div>
+</body>
+
+</html>
