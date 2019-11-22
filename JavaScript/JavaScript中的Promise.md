@@ -29,22 +29,22 @@
  ```
  
 
-![](https://user-gold-cdn.xitu.io/2019/11/10/16e5451edbc6f5d8?w=938&h=434&f=png&s=55223)
+![](https://github.com/wangxinyu123/SKill/blob/master/JavaScript/Img/setTimeout01.png)
  
  > 接下来的例子非常有意思 😉   
  
 
 
-![](https://user-gold-cdn.xitu.io/2019/11/10/16e54522d64143d1?w=922&h=1174&f=png&s=226770)
+![](https://github.com/wangxinyu123/SKill/blob/master/JavaScript/Img/setTimeout02.png)
  
  > 一脸懵逼的结果 😳 
  
 
-![](https://user-gold-cdn.xitu.io/2019/11/10/16e545249e601d51?w=872&h=794&f=png&s=104464)
+![](https://github.com/wangxinyu123/SKill/blob/master/JavaScript/Img/setTimeout03.png)
  
  **下面是我的理解(仅供参考)**   
   
-> 1 ) 程序都是从上向下执行 所以输出global毫无疑问   
+ 1 ) 程序都是从上向下执行 所以输出global毫无疑问   
  2 ) 遇到第一个setTimeout => 宏任务 进入队列   
  3 ) for循环输出里面是setTimeout进入队列 然后输出 1,2,3,4,5   
  4 ) 遇到了构造函数Promise 输出promise1 接着走我们遇到了then => 微任务 push进入队列   
