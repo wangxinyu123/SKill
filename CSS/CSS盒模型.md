@@ -12,7 +12,7 @@
         margin: 10px;
       }
 ``` 
-![]()<br>
+![](https://github.com/wangxinyu123/SKill/blob/master/CSS/img/border-box.png)<br>
 * box-sizing: content-box<br>
 如果再加上外边距和内边距高度会在内容高度的基础上增加<br>
 
@@ -28,4 +28,4 @@
 
 ```   
 
-![]()
+![](https://github.com/wangxinyu123/SKill/blob/master/CSS/img/content-box.png)

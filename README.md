@@ -5,7 +5,7 @@
 
 ### 每天一个幸福的小方法<br>
     用于积累练习中遇到过问题的解决方法,希望对你有帮助
-1. [Happiness skill](https://github.com/wangxinyu123/SKill/blob/master/%E5%B8%B8%E8%A7%81%E5%B8%83%E5%B1%80/CSS%E5%B0%8F%E6%8A%80%E5%B7%A7.md)<br>    
+1. [Happiness skill](https://github.com/wangxinyu123/SKill/blob/master/CSS/CSS%E5%B0%8F%E6%8A%80%E5%B7%A7.md)<br>    
 
 ### Css布局系列目录<br>
     每个里面都有多方法供选择,可选择喜欢的运用
