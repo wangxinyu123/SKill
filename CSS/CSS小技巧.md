@@ -38,8 +38,8 @@
 * display:none; 很好理解就是把元素从页面删除他所占有的位置有其他元素替代,造成页面的重绘重排<br>   
 * visibility: hidden; 根据英文大概翻译就是看不见,但是不会造成重排<br>   
 * opacity: 0;  改变透明度达到效果,但是绑定的事件依旧可以触发<br>
-> 通过 opacity: 0; 实现的排版<br>   
-![详细代码](https://github.com/wangxinyu123/ShoesMall/blob/master/shoespos/src/common/leftNav.vue)<br>
+> 通过 opacity: 0; 实现的排版<br>
+![代码传送门](https://github.com/wangxinyu123/ShoesMall/blob/master/shoespos/src/common/leftNav.vue)
 
 ```css
        
@@ -55,6 +55,7 @@
  </div>
 
 ```
-![](https://github.com/wangxinyu123/SKill/blob/master/CSS/img/%E5%85%83%E7%B4%A0%E6%B6%88%E5%A4%B1.png)<br>
+![点击查看效果图](https://github.com/wangxinyu123/SKill/blob/master/CSS/img/%E5%85%83%E7%B4%A0%E6%B6%88%E5%A4%B1.png)<br>
+
 
 
