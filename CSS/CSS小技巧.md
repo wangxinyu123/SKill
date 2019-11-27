@@ -55,7 +55,6 @@
  </div>
 
 ```
-![点击查看效果图](https://github.com/wangxinyu123/SKill/blob/master/CSS/img/%E5%85%83%E7%B4%A0%E6%B6%88%E5%A4%B1.png)<br>
 
 
 
