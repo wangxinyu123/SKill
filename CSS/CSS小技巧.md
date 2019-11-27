@@ -31,5 +31,10 @@
 ```
 
 * 权重大小<br>
-!important > 行内样式 > id选择器 > 类选择器 > 元素/伪类选择器 > * 
+!important > 行内样式 > id选择器 > 类选择器 > 元素/伪类选择器 > *  <br>
+
+### 3.理清楚行内元素,块级元素<br>
+
+> 块级元素:div p forn ul li h1~h6 <br>   
+> 行内元素:span img input a i
 
