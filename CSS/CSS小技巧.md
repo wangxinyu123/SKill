@@ -56,11 +56,11 @@
 
 ```
 ### 4.如何实现三角形<br>
+* 让我们看一下变化的过程<br>
+<img src="https://github.com/wangxinyu123/SKill/blob/master/CSS/img/CSS%E4%B8%89%E8%A7%92%E5%BD%A2(1).png" width="375"><br>
+<img src="https://github.com/wangxinyu123/SKill/blob/master/CSS/img/CSS%E4%B8%89%E8%A7%92%E5%BD%A2(2).png" width="375"><br>
+<img src="https://github.com/wangxinyu123/SKill/blob/master/CSS/img/CSS%E4%B8%89%E8%A7%92%E5%BD%A2(3).png" width="375"><br>
 
-* 让我们看一下变化的过程
-<img src="https://github.com/wangxinyu123/SKill/blob/master/CSS/img/CSS%E4%B8%89%E8%A7%92%E5%BD%A2(1).png" width="400"><br>
-![]()<br>
-![]()<br>
 ```css
 
     div{
