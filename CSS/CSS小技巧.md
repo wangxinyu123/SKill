@@ -72,6 +72,17 @@
         border-right: 80px solid transparent;      
     }
 
+``` 
+### 5.三步解决超出文本内容<br>
+
+```css
+
+overflow:hidden 内容会被修剪，并且其余内容是不可见的。
+
+white-space：文本会在同一行 知道遇到</br>才会换行
+
+text-overflow: ellipsis; 显示省略符号来代表被修剪的文本。
+
 ```
 
 
