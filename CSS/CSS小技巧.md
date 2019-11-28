@@ -38,6 +38,23 @@
 * display:none; 很好理解就是把元素从页面删除他所占有的位置有其他元素替代,造成页面的重绘重排<br>   
 * visibility: hidden; 根据英文大概翻译就是看不见,但是不会造成重排<br>   
 * opacity: 0;  改变透明度达到效果,但是绑定的事件依旧可以触发<br>
-![]()
+> 通过 opacity: 0; 实现的排版<br>
+![代码传送门](https://github.com/wangxinyu123/ShoesMall/blob/master/shoespos/src/common/leftNav.vue)
+
+```css
+       
+.classification dl dd  span{
+        opacity: 0;
+    }
+    
+ <div class="classification">
+       <dl>
+          <dd><router-link to="/login">注册会员</router-link><span>|</span></dd>
+          <dd><router-link to="/login">登录</router-link><span>|</span></dd>
+       </dl>
+ </div>
+
+```
+
 
 
