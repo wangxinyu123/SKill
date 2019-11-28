@@ -55,6 +55,24 @@
  </div>
 
 ```
+### 4.如何实现三角形<br>
+
+* 让我们看一下变化的过程
+![]()<br>
+![]()<br>
+![]()<br>
+```css
+
+    div{
+        width: 0px;
+        height: 0px;
+        margin: 100px auto;
+        border-bottom: 80px solid skyblue;
+        border-left: 80px solid transparent;
+        border-right: 80px solid transparent;      
+    }
+
+```
 
 
 
