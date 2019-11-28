@@ -17,7 +17,7 @@
 5. [ 两列布局 ](https://github.com/wangxinyu123/SKill/tree/master/%E6%95%B4%E4%BD%93%E5%B8%83%E5%B1%80/%E5%8F%8C%E5%88%97%E5%B8%83%E5%B1%80)<br>
 6. [CSS清除浮动](https://github.com/wangxinyu123/SKill/blob/master/CSS/CSS%E6%B8%85%E9%99%A4%E6%B5%AE%E5%8A%A8.md)<br>
 7. [CSS盒模型](https://github.com/wangxinyu123/SKill/blob/master/CSS/CSS%E7%9B%92%E6%A8%A1%E5%9E%8B.md)<br>
-
+8. [Position几个属性的作用](https://github.com/wangxinyu123/SKill/blob/master/CSS/Position%20%E5%87%A0%E4%B8%AA%E5%B1%9E%E6%80%A7%E7%9A%84%E4%BD%9C%E7%94%A8.md)<br>
 
 ### Javascript<br>
 
