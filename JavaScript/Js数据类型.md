@@ -1,8 +1,8 @@
 ### Js数据类型<br>   
 
-* 基本数据(值)类型: String, Number, Boolean, Null, undefined
-* 对象(引用)类型: Object, Function, Arrary   
-* 判断<br>
+* 基本数据(值)类型[栈]: String, Number, Boolean, Null, undefined
+* 对象(引用)类型[堆]: Object, Function, Arrary 
+* 判断<br> 
 
 
 ```css
