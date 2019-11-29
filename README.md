@@ -21,7 +21,8 @@
 
 ### Javascript<br>
 
-1. [JavaScript中的原型及原型链](https://github.com/wangxinyu123/SKill/blob/master/JavaScript/JavaScript%E5%8E%9F%E5%9E%8B%E5%8F%8A%E5%8E%9F%E5%9E%8B%E9%93%BE.md)<br>
+1. [Js数据类型](https://github.com/wangxinyu123/SKill/blob/master/JavaScript/Js%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)<br>
 2. [JavaScript中this指向](https://github.com/wangxinyu123/SKill/blob/master/JavaScript/JavaScript%20this%E6%8C%87%E5%90%91%E9%97%AE%E9%A2%98.md)<br>
-3. [JavaScript中的Promise](https://github.com/wangxinyu123/SKill/blob/master/JavaScript/JavaScript%E4%B8%AD%E7%9A%84Promise.md)<br>
+3. [JavaScript中的原型及原型链](https://github.com/wangxinyu123/SKill/blob/master/JavaScript/JavaScript%E5%8E%9F%E5%9E%8B%E5%8F%8A%E5%8E%9F%E5%9E%8B%E9%93%BE.md)<br>
+4. [JavaScript中的Promise](https://github.com/wangxinyu123/SKill/blob/master/JavaScript/JavaScript%E4%B8%AD%E7%9A%84Promise.md)<br>
 
