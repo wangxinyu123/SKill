@@ -1,7 +1,7 @@
 ## 手把手教你封装组件<br>
 
 #### 目录如下
-![]()<br>
+<img src="https://github.com/wangxinyu123/SKill/blob/master/Vue/Img/%E7%9B%AE%E5%BD%95.png" width="200"><br>
 
 * 先在 components 文件夹下创建js文件
 * 再创建 .vue文件里面写入你想要的内容
