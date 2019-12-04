@@ -3,7 +3,7 @@
 > 通过查找资料实现了吸顶效果,在此总结归纳 如果对你有所帮助可以Star<br>
 
 * 完成的效果<br>
-<img src="https://github.com/wangxinyu123/SKill/blob/master/Vue/Img/%E5%AF%BC%E8%88%AA%E6%A0%8F.png" width="350"><br>
+<img src="https://github.com/wangxinyu123/SKill/blob/master/Vue/Img/%E5%AF%BC%E8%88%AA%E6%A0%8F.png" width="350"><br>   
 
 <img src="https://github.com/wangxinyu123/SKill/blob/master/Vue/Img/%E5%AF%BC%E8%88%AA%E6%A0%8F%E5%AE%8C%E6%88%90%E5%90%B8%E9%A1%B6.png" width="350"><br>
 
