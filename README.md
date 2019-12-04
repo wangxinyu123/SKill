@@ -28,4 +28,5 @@
 
 ### Vue系列目录<br>
 
-1. [Vue封装自定义组件](https://github.com/wangxinyu123/SKill/blob/master/Vue/Vue%E5%B0%81%E8%A3%85%E8%87%AA%E5%AE%9A%E4%B9%89%E7%BB%84%E4%BB%B6.md)<br>
+1. [Vue封装自定义组件](https://github.com/wangxinyu123/SKill/blob/master/Vue/Vue%E5%B0%81%E8%A3%85%E8%87%AA%E5%AE%9A%E4%B9%89%E7%BB%84%E4%BB%B6.md)<br>   
+2. [Vue实现吸顶效果](https://github.com/wangxinyu123/SKill/blob/master/Vue/Vue%E5%AE%9E%E7%8E%B0%E5%AF%BC%E8%88%AA%E6%A0%8F%E5%90%B8%E9%A1%B6%E6%95%88%E6%9E%9C.md)<br>
