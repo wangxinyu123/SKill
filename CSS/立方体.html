@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        :root{
+            background:linear-gradient(black,white 80%);
+            height: 100%;
+        }
+        * {
+            padding: 0;
+            margin: 0;
+        }
+         @keyframes rotate{
+             from{
+                 transform: rotateX(0deg) rotateY(0deg);
+             }
+             to{
+                 transform: rotateX(-360deg) rotateY(-360deg);
+             }
+         }
+        .Box {
+            width: 200px;
+            height: 200px;
+            position: relative;
+            margin: 200px auto;
+            /* transform:rotateX(-85deg) rotateY(-85deg); */
+            /* animation-name: rotate ;
+            animation-duration: 5s;
+            animation-timing-function: linear;
+            animation-iteration-count: infinite; */
+            animation:rotate 15s infinite linear;
+            transform: rotate3d(-1, -1, 0, 45deg);
+            /*3D效果的移动*/
+            transform-style: preserve-3d;
+            /*定义 3D 转换元素的透视视图。*/
+        }
+
+        .Box>div {
+            /*可是所有div重叠*/
+            width: 200px;
+            height: 200px;
+            position: absolute;
+            opacity: .5;
+        }
+
+        .front {
+            background-color: bisque;
+            transform: translateZ(100px);
+        }
+
+        .back {
+            background-color: chocolate;
+            transform: translateZ(-100px) rotateY(180deg);
+        }
+
+        /*
+        只考虑当前位置进行旋转 
+        当y为旋转轴时，可以选择上边的一个顶点作为参考来分辨正负
+        例如在旋转面上添加标记 left,right,...
+        总结：选对旋转轴最重要
+        */
+        .left {
+            background-color: rgb(20, 128, 47);
+            transform: translateX(-100px) rotateY(-90deg);
+        }
+
+        .right {
+            background-color: rgb(240, 195, 50);
+            transform: translateX(100px) rotateY(90deg);
+        }
+
+        .top {
+            background-color: hotpink;
+            transform: translateY(-100px) rotateX(90deg);
+        }
+
+        .bottom {
+            background-color: steelblue;
+            transform: translateY(100px) rotateX(90deg);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="Box">
+        <div class="front">front</div>
+        <div class="back">back</div>
+        <div class="left">left</div>
+        <div class="right">right</div>
+        <div class="top">top</div>
+        <div class="bottom">bottom</div>
+    </div>
+</body>
+
+</html>
