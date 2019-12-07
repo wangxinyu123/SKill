@@ -84,6 +84,49 @@ white-space：nowrap; 文本会在同一行 知道遇到</br>才会换行
 text-overflow: ellipsis; 显示省略符号来代表被修剪的文本。
 
 ```
+### 6.如何通过flex达到效果<br>
+
+* flex布局比起通过定位布局更加方便
+
+```css
+/**
+  flex一定要在父级元素写
+*/
+
+.father{
+
+     display:flex;  
+     justify-content: center; 水平方向
+     align-items: center; 垂直方向
+  } 
+  
+
+```
+
+```css
+/**
+ 用于左列定宽 右侧自适应填满
+*/
+#Box{
+    display:flex;
+    width: 100%;
+    height: 400px;
+  }
+.left{
+    width:100px;
+    height: 400px;
+  }
+.right{
+    flex:1;
+    height: 400px;
+  }  
+  
+   <div id="Box">
+       <div class="left">left</div>
+       <div class="right">right</div>
+   </div>
+    
+```
 
 
 
