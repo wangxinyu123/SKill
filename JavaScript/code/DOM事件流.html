@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="div">
+        <button id="btn">按钮</button>
+        <a href="https://www.baidu.com/" id="s">百度</a>
+    </div>
+</body>
+<script>
+    var x = document.querySelector("#btn");
+    var y = document.querySelector("#div");
+    var z = document.querySelector("#s");
+    //  x.onclick = function(){
+    //      alert("1");
+    //  } 
+    //  x.onclick = function(){
+    //      alert("2");
+    //  } 
+
+     x.addEventListener('click',hello);
+     y.addEventListener('click',word,true);
+
+    //  x.removeEventListener('click',word);
+     function hello(){
+         console.log("Hello");
+     }
+     function word(){
+         console.log("word");
+     }
+    // x.addEventListener('click', show);
+    // y.addEventListener('click',showdiv);
+    // z.addEventListener('click',showA);
+    // function show(event) {
+    //     // alert(event.type)
+    //     alert(event.target);
+    //     event.stopPropagation();
+    // }
+    // function showdiv(){
+    //     alert('div');
+    // }
+    // function showA(){
+        
+    // }
+</script>
+
+</html>
