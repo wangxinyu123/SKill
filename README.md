@@ -20,6 +20,7 @@
 8. [Position几个属性的作用](https://github.com/wangxinyu123/SKill/blob/master/CSS/Position%20%E5%87%A0%E4%B8%AA%E5%B1%9E%E6%80%A7%E7%9A%84%E4%BD%9C%E7%94%A8.md)<br>
 9. [常用的覆盖效果](https://github.com/wangxinyu123/SKill/blob/master/CSS/%E5%B8%B8%E7%94%A8%E7%9A%84%E8%A6%86%E7%9B%96%E6%95%88%E6%9E%9C.md)<br>
 10. [浅谈动画效果](https://github.com/wangxinyu123/SKill/blob/master/CSS/%E5%8A%A8%E7%94%BB%E5%AE%9E%E4%BE%8B.md)<br>
+11. [link 与 @import 的区别](https://github.com/wangxinyu123/SKill/blob/master/CSS/link%E4%B8%8E%40import.md)<br>
 
 
 ### Javascript系列目录<br>
