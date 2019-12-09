@@ -39,7 +39,7 @@
 * visibility: hidden; 根据英文大概翻译就是看不见,但是不会造成重排<br>   
 * opacity: 0;  改变透明度达到效果,但是绑定的事件依旧可以触发<br>
 > 通过 opacity: 0; 实现的排版<br>
-![代码传送门](https://github.com/wangxinyu123/ShoesMall/blob/master/shoespos/src/common/leftNav.vue)
+[代码传送门](https://github.com/wangxinyu123/ShoesMall/blob/master/shoespos/src/common/leftNav.vue)
 
 ```css
        
